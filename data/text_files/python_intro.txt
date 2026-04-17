@@ -1,0 +1,11 @@
+
+Python is a high-level, interpreted programming language known for its simplicity and readability.
+It is widely used in web development, data science, machine learning, automation, and scripting.
+Python uses indentation to define code blocks, making it visually clean and easy to understand.
+
+Basic features of Python include dynamic typing, automatic memory management, and a large standard library.
+It supports multiple programming paradigms such as procedural, object-oriented, and functional programming.
+
+Example:
+print("Hello, World!")
+    
